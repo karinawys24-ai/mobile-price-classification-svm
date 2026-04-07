@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project aims to classify smartphone price categories using **Support Vector Machine (SVM)** based on technical specifications.
+This model can help businesses understand key factors influencing smartphone pricing and support data-driven pricing strategies.
 
 ---
 
@@ -39,6 +40,16 @@ This project aims to classify smartphone price categories using **Support Vector
 ## 🤖 Model Performance
 - Train Accuracy: **95%**  
 - Test Accuracy: **93%**
+
+---
+
+## 📊 Visualization
+
+### Heatmap
+![Heatmap](heatmap.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
